@@ -1,7 +1,6 @@
 package ru.netology.domain;
 
-public class Reposts {
+public class RepostsInfo {
     private int count;
     private int repostedUser;
-    private boolean canReport;
 }

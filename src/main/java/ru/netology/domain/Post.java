@@ -5,9 +5,9 @@ public class Post {
     private int dateOfPlacement;
     private String postTitle;
     private String postText;
-    public Comments comments;
-    private Likes likes;
-    private Reposts reposts;
+    public CommentsInfo commentsInfo;
+    private LikesInfo likesInfo;
+    private RepostsInfo reposts;
     private int idOwner;
     private int idFrom;
     private int byCreate;
